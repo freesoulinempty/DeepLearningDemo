@@ -3,7 +3,10 @@
     "allow": [
       "WebFetch(domain:github.com)",
       "WebFetch(domain:zenodo.org)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "mcp__ide__executeCode",
+      "Bash(ls:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
