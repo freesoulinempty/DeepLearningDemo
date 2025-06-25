@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+best.pt
+
+# Data directories
+data/raw/
+data/processed/
+*.zip
+*.tif
+*.jpg
+*.jpeg
+*.png
+
+# YOLOv5
+yolov5/
+runs/
+weights/
+
+# Results and outputs
+inference_results/
+professional_inference_results/
+detect/
+exp*/
+
+# Configuration files
+*.yaml
+*.yml
+wandb/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+nohup.out
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Model artifacts
+*.onnx
+*.engine
+*.trt
