@@ -83,6 +83,10 @@ The trained YOLOv5 model demonstrates excellent tree detection capabilities:
 - **High Confidence (>0.7)**: 2,044 detections (60.0%)
 - **Medium Confidence (0.4-0.7)**: 956 detections (28.1%)
 - **Low Confidence (<0.4)**: 408 detections (11.9%)
+<img width="901" alt="1334C6A6D5D4337B84624ACF60AE0C68" src="https://github.com/user-attachments/assets/b6286f9d-5a62-47b4-813c-dc02c720515f" />
+
+<img width="911" alt="D231EAFCF5E29384C620941973580088" src="https://github.com/user-attachments/assets/4e1755c1-489f-4d46-95f2-765dd0860ace" />
+
 
 ### Processing Efficiency
 - **Test Images Processed**: 20 aerial images
